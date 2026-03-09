@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 IEEE_MAG_Papers/*.pdf
+data/model/*
+data/sparsity/*
+results/*.json
